@@ -139,6 +139,7 @@ nav a:hover{
     font-size: 1.3em;
     margin-left: 20px;
     color: white;
+    width: 50%;
 
 }
 
@@ -146,6 +147,10 @@ nav a:hover{
     text-align: center;
     font-weight: 900;
     text-transform: uppercase;
+}
+
+.img{
+    width: 50%;
 }
 
 .img img{
